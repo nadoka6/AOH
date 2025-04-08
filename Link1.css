@@ -1,0 +1,33 @@
+
+		* {font-family: Georgia;
+		}
+   #BP {width:78%;
+	}
+	hr {width:100%;
+		}
+	#ilustrar {width:100%;border: solid black 2px;box-shadow: -3px 2px 2px gray;margin-bottom: 4px;
+	}
+nav {background-color:#E7E7E7;padding:13px 20px 5px 20px;
+	}
+body {margin: 0;
+	}
+.Tit {text-decoration:underline;
+  }
+label {
+  text-decoration:underline;
+}
+  #lb {margin:0;
+}
+ #in, #put {margin:0;
+ }
+ #fp {
+   display:inline;
+ }
+ form {
+  width:100%;
+ }
+@media (max-width: 600px) {
+  form {
+    width: 100%;
+  }
+}
